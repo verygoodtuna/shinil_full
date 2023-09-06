@@ -1,0 +1,44 @@
+.header {
+    border-top: 3px solid $main-color;
+    ul {
+        display: flex;
+        align-items: center;
+    }
+
+    .top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0;
+
+        .left {
+            display: flex;
+            gap: 24px;
+
+            .lng {
+                gap: 12px;
+                padding: 6px 12px;
+                border: 1px solid $line-color;
+                border-radius: 16px;
+
+                li {
+                    font-size: 14px;
+                    font-weight: 400;
+                    
+                    span {
+                        vertical-align: middle;
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+
+        .right {
+            display: flex;
+        }
+    }
+
+    .bottom {
+        display: none;
+    }
+}

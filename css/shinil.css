@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
+body {
+  font-family: "Roboto", "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: inherit;
+  font-weight: inherit;
+  word-break: keep-all;
+  font-family: "Noto Sans", "Noto Sans KR", "Roboto", sans-serif;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  line-height: 1;
+  color: #444;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+.blind {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+}
+
+.inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.header {
+  border-top: 3px solid #ed2024;
+}
+.header ul {
+  display: flex;
+  align-items: center;
+}
+.header .top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+.header .top .left {
+  display: flex;
+  gap: 24px;
+}
+.header .top .left .lng {
+  gap: 12px;
+  padding: 6px 12px;
+  border: 1px solid #dddddd;
+  border-radius: 16px;
+}
+.header .top .left .lng li {
+  font-size: 14px;
+  font-weight: 400;
+}
+.header .top .left .lng li span {
+  vertical-align: middle;
+  font-size: 20px;
+}
+.header .top .right {
+  display: flex;
+}
+.header .bottom {
+  display: none;
+}/*# sourceMappingURL=shinil.css.map */

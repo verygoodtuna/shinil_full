@@ -1,0 +1,169 @@
+mc #db1d27
+rc #ed2024
+bc #dddddd
+gc #666666
+icon : @import url('https://cdn.jsdelivr.net/npm/@tabler/icons@latest/iconfont/tabler-icons.min.css');
+icon = ti ti-
+에어컨 air-conditioning
+팬 propeller
+----
+header
+top
+left)  
+태극기 KOR 
+brand-youtube
+brand-instagram
+brand-facebook-filled
+brand-blogger
+right)
+home Home 
+Contact Us
+검색 창 search
+----
+bottom
+logo
+회사소개
+- 회사개요 CEO 인사말 회사연혁 경영이념 CI 소개 찾아오시는 길
+제품소개
+- 신제품 선풍기 여름가전 겨울가전 주방가전 생활가전 환경가전 펫가전 
+홍보센터
+- 공지사항 언론보도 카탈로그 홍보활동 
+고객지원
+- 자주 묻는 질문 서비스센터/대리점 제품설명서
+신일 Mall shopping-bag
+menu-2
+----
+slick(main_slide)
+1)
+View More
+2)
+#정경호_신일하다!
+bar
+가전을 넘어
+당신의 일상을 디자인하다!
+View More
+<br />
+3)
+NEW 신일 에어서큘레이터
+bar
+예쁘게 시원하다!
+더욱 강력해진 최고급 BLDC 모터로
+공간을 바꾸는 바람을 느껴보세요
+View More
+4)
+신일 스탠딩 드라이어
+bar
+두손이 자유로운 새로운 바람
+반려동물에게는 섬세하고 조용하게,
+우리 가족에게는 빠르고 강력하게!
+View More
+
+Scroll
+----
+section1(main_product)
+STEP 01
+SHINIL PRODUCT
+기술과 신뢰, 높은 기술력을 통해 세계로
+제품 검색 제품명을 검색해주세요. <i class="bi bi-search"></i>
+slide) check
+신제품 sparkles
+선풍기 propeller
+여름가전 air-conditioning
+겨울가전 temperature-plus
+주방가전 cooker
+생활가전 ironing
+환경가전 air-conditioning-disabled
+펫가전 paw-filled
+arrow-badge-left-filled
+---
+section2(main_promotion)
+STEP 02
+SHINIL PROMOTION
+신일전자의 다양한 제품 소식을 만나보세요
+
+PRODUCT	신일전자 공식 유투브 이벤트		신일과 맘편히 시원하자!
+GUIDE 
+서큘레이터	무선 BLDC팬	스탠딩드라이어
+Review		Review		Review
+더 많은 리뷰 보기
+---
+section3(main_relation)
+STEP 03
+PUBLIC RELATION
+신일전자의 다양한 소식을 전달합니다.
+
+left)
+언론보도
+[230620] 냉방비 폭탄 우려에···’선풍기·에어서큘레이터’에 지갑 연다
+무더위 예고와 전기 요금 인상에 ’저전력·고효율 여름 가전’ 불티
+냉방비 폭탄 우려에···’선풍기·에어서큘레이터’에 지갑 연다
+-  저전력·고효율 여름가전 대세! 홈쇼핑 매진 행렬 이어지며 고공행진!
+- 최근 전기 요금 인상 소식 발표되고 선풍기 출고 금액 전년 대비 5% 증가
+-  선풍기 출고 금액 중 에어서큘레이터가 차지하는 비중은 약 44%로 높아
+2023-06-20
+more chevron-right
+
+center)
+언론보도
+[230615] 신일, 뜨거워진 텐트 속을 시원하게! ‘캠핑용 이동식 에어컨’ 출시
+여름 캠핑 꿀팁 대방출! 캠핑용 이동식 에어컨으로 쿨~하게! 
+신일, 뜨거워진 텐트 속을 시원하게! ‘캠핑용 이동식 에어컨’ 출시
+■ 강력한 냉방능력으로 텐트 내부 온도를 낮춰주는 ‘캠핑용 이동식 에어컨’
+■ 전기 사용이 가능한 캠핑장에서 코드선만 연결하면 손쉬운 사용 가능
+■ 제품 전면부 LED 램프 조명을 배치해 야간 조명으로도 활용
+2023-06-15
+more chevron-right
+
+right)
+언론보도
+[230609] 신일, 미리 준비하는 장마철 필수템! ‘18L 상부식 제습기’ 출시
+지난해 ‘장마 트라우마’에 올해 ‘역대급 장마 예고’가 걱정된다면?!
+신일, 미리 준비하는 장마철 필수템! ‘18L 상부식 제습기’ 출시
+■ 상부식 물통을 채택해 사용 편의성을 높인 대용량 제습기
+■ 일일 제습량 18L, 물통 용량 6L···습도 높은 장마철에 사용하기 안성맞춤
+■ 대한아토피협회 추천 제품으로 예민한 피부를 가진 이들도 걱정 없이 사용 가능
+2023-06-09
+more chevron-right
+
+NEWS plus
+공지사항
+제 64기 결산공고
+bar
+제 64기 결산공고 첨부파일 참조 바랍니다
+2023.04.11
+var
+book-2 카탈로그
+book 제품 설명서
+---
+section4(main_customer)
+STEP 04
+SHINIL SHINIL
+항상 고객을 먼저 생각합니다.
+
+1)
+FAQ folder
+자주묻는 질문들을
+자세히 알려드립니다.
+2)
+제품설명서 book-download
+제품별 설명서를
+다운로드 받으세요
+3)
+서비스센터 bulb
+전국에 있는 서비스 센터를
+알려드립니다.
+4)
+대리점안내 map-search
+대리점의 위치를
+자세히 알려드립니다.
+
+CUSTOMER CENTER
+문의하신 내용을 친절히 상담해 드립니다.
+Tel. 1577-6667 Fax. 02-2069-0282
+평일 : 오전 09:00 ~ 오후 06:00 / 토,일요일 · 공휴일 : 휴무 phone-filled
+---
+footer
+서비스센터사이트맵개인정보처리방침이메일무단수집거부 FAMILY SITE (신일스토어)
+신일전자주식회사 대표 : 정윤석 사업자등록번호 : 134-81-25389
+충청남도 천안시 서북구 입장면 연곡길 308 / TEL : 1577-6667 FAX : 02-2069-0282
+COPYRIGHT (C) 2018 SHINIL ALL RIGHTS RESERVED
